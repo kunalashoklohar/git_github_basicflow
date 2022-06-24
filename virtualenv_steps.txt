@@ -1,0 +1,19 @@
+1.Clone remote repo to your local machine
+    >> git clone <github url>
+2.create a virtual environment into project folder (workspace)
+    >> python -m venv <name of the virtual environment>
+3.activate newly created virtual environment
+    if your are in the project folder --root folder
+    >> <virtual environment name>\Script\activate .
+4.Intall the external dependecies/libraries required for your project.These are in your requiremnts.txt
+    >> pip install -r requiremnts.txt
+
+
+Repository --->bunch of files/folder which can be tracked over the time (timeline or history of changes)
+to create and maintain a repository ---> git 
+it follows branch convention
+   master/main
+
+
+working space   ------ #staging area ---- #repository 
+changes in file    add                commit
