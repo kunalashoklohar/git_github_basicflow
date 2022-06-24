@@ -15,5 +15,24 @@ it follows branch convention
    master/main
 
 
-working space   ------ #staging area ---- #repository 
+working space     ------ #staging area ----  #repository 
 changes in file    add                commit
+
+
+git commands --
+1.To initialize an empty git repository 
+    >> git init
+
+2.To add changes to staging area 
+    >> git add . 
+         (here . means all the files that you have changed ,else specify filename)
+
+3. To commit those changes over repository 
+    >> git commit -m "Message"
+         (Write an appropriate Message)
+
+4. To see the current status of the repository
+    >> git status 
+
+5. To see all the logs
+    >> git log
