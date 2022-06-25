@@ -19,7 +19,7 @@ working space     ------ #staging area ----  #repository
 changes in file    add                commit
 
 
-git commands --
+ --------------git commands (Local) --
 1.To initialize an empty git repository 
     >> git init
 
@@ -36,3 +36,15 @@ git commands --
 
 5. To see all the logs
     >> git log
+
+
+
+---------------github (Remote)-----------------
+{Steps for sharing my (local) repository to github (Remote)}
+1.From my account i will create a repository 
+  It can be done through the UI.
+
+2.Create a connection from local to remote(newly created)
+        default name ---->origin
+3.The we will push our local repo to remote github repo
+        git push origin <branch name>
