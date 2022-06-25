@@ -48,3 +48,7 @@ changes in file    add                commit
         default name ---->origin
 3.The we will push our local repo to remote github repo
         git push origin <branch name>
+
+
+
+-----------Now i will make some chanegs in my local repo and will commit those changes using above commands        
