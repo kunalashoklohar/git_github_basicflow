@@ -1,0 +1,1 @@
+# read availibilty.txt file and extract name,email,and availability string /
