@@ -51,4 +51,7 @@ changes in file    add                commit
 
 
 
------------Now i will make some chanegs in my local repo and will commit those changes using above commands        
+-----------Now i will make some chanegs in my local repo and will commit those changes using above commands   
+
+hello
+ changes made by pradeep
